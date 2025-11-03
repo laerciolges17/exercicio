@@ -296,13 +296,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 954d0875c3d6e4a49bd17576e80179aa, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 2a959e196c880324ebb8c013de24dd13, type: 2}
-  m_TileSpriteArray:
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  m_TileSpriteArray: []
   m_TileMatrixArray:
   - m_RefCount: 3
     m_Data:
@@ -19297,6 +19291,10 @@ PrefabInstance:
     - target: {fileID: 2481669367203617099, guid: 89f86b78046760c41ab5ad46167347e9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3401862400300408052, guid: 89f86b78046760c41ab5ad46167347e9, type: 3}
+      propertyPath: nomeDaCena
+      value: Cena 7
       objectReference: {fileID: 0}
     - target: {fileID: 7820260731791621177, guid: 89f86b78046760c41ab5ad46167347e9, type: 3}
       propertyPath: m_Name

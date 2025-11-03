@@ -20,6 +20,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Cena 6.unity
     guid: f0865d5b1f734c24fbac7aa28cf7fa5a
+  - enabled: 1
+    path: Assets/Cena 7.unity
+    guid: ee148ed7d2e2e10418a02b47abf1a1bc
+  - enabled: 1
+    path: Assets/Cena 8.unity
+    guid: 22bdaf913e8a38d499a97106395aa441
+  - enabled: 1
+    path: Assets/Cena 9.unity
+    guid: f4ad88a04f210024981cf71175f0ed69
+  - enabled: 1
+    path: Assets/Cena 10.unity
+    guid: 09ba50459daca5442be1be5b457e2c0c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
